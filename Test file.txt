@@ -1,1 +1,1 @@
-GIT test file
+this is a new line to test git commit GIT test file
