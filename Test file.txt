@@ -1,1 +1,2 @@
+adding a new line to test synching
 this is a new line to test git commit GIT test file
